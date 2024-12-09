@@ -121,7 +121,7 @@ header {
 
 .section-info {
     font-family: 'Inder', sans-serif;
-    background-image: url(/image/info-background.jpg);
+    background-image: url(./image/info-background.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
